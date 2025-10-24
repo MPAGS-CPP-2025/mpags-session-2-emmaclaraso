@@ -9,4 +9,3 @@ This project is a test to learn good GitHub practices.
 ## Authors
 
 ## Documentation 
-Change line on VScode 
