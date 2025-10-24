@@ -7,3 +7,5 @@ This project is a test to learn good GitHub practices.
 ## How to Install 
 
 ## Authors
+
+## Documentation 
